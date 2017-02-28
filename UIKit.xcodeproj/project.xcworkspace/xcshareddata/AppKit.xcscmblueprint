@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "78796BA33CB477B954EEB2B8BE88836D2492017F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "78796BA33CB477B954EEB2B8BE88836D2492017F" : 9223372036854775807,
+    "47D72078F94709CA3BEE832692D4CE96B65AFFF3" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8540C817-5238-4E99-A442-45B4D099AD11",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "78796BA33CB477B954EEB2B8BE88836D2492017F" : "AppKit-CXX\/",
+    "47D72078F94709CA3BEE832692D4CE96B65AFFF3" : "UIKit-CXX\/Submodules\/OBJCXX\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "AppKit",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "AppKit.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/macmade\/OBJCXX.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "47D72078F94709CA3BEE832692D4CE96B65AFFF3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:macmade\/AppKit-CXX.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "78796BA33CB477B954EEB2B8BE88836D2492017F"
+    }
+  ]
+}
