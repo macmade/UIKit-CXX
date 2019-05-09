@@ -2,4 +2,4 @@ language: objective-c
 xcode_project: UIKit.xcodeproj
 xcode_scheme: Demo
 script:
-set -o pipefail && xcodebuild -project UIKit.xcodeproj -scheme Demo build | xcpretty
+- set -o pipefail && xcodebuild -project UIKit.xcodeproj -scheme Demo build | xcpretty
