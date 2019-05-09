@@ -1,5 +1,6 @@
 language: objective-c
 xcode_project: UIKit.xcodeproj
 xcode_scheme: Demo
+xcode_destination: platform=iOS Simulator,OS=11.3,name=iPhone X
 script:
 - set -o pipefail && xcodebuild -project UIKit.xcodeproj -scheme Demo build | xcpretty
